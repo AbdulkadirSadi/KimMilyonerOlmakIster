@@ -1,4 +1,4 @@
-# c-
+# c++
 Bilgisayar Mühendisliği Yolculuğundaki İlk Yazdığım Program;
 
 Program çalıştırıldığında .cpp uzantılı dosya ile aynı konuma koyulmuş olan kolaySorular.txt belgesinden rastgele seçilen sorular ilk 4 soru boyunca yarışmacının karşısına çıkar. Aynı şekilde ortaSorular.txt ile zorSorular.txt dosyaları 4'er soru seçilmek üzere hazırlanmış olup kullanıcıya toplam 12 adet soru sorulur. Oyunun sonunda kullanıcının adıyla birlikte aldığı ödül yarismacilar.txt dosyasına kaydedilir.
