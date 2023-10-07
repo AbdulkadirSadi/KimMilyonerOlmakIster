@@ -1,0 +1,5 @@
+﻿  KimMilyonerOlmakİsterrr.cpp
+C:\Users\Sümeyye\Desktop\abdulkadir\sunumum\Final Projesi\KimMilyonerOlmakİsterrr.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Sümeyye\Desktop\abdulkadir\sunumum\Final Projesi\KimMilyonerOlmakİsterrr.cpp(37,20): warning C4101: 'dizi': unreferenced local variable
+C:\Users\Sümeyye\Desktop\abdulkadir\sunumum\Final Projesi\KimMilyonerOlmakİsterrr.cpp(128,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Final Projesi.vcxproj -> C:\Users\Sümeyye\Desktop\abdulkadir\sunumum\Final Projesi\x64\Debug\Final Projesi.exe

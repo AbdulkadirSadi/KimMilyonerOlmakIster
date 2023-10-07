@@ -1,0 +1,50 @@
+1#Kafe ve restoranlarda serpme kahvaltý genellikle hangisi eþliðinde servis edilir?#Bitmeyen fýndýk kremasý#Sonsuz dana jambon#Tükenmez süzme bal#Sýnýrsýz çay#D#5#
+2#"Tom Sawyer'ýn Maceralarý" adlý romanýn baþkarakteri kimdir?#David Copperfield#Martin Eden#Tom Sawyer#Oliver Twist#C#4#
+3#"Biyolojinin temelinde kimya,kimyanýn temelindeyse..." diyen biri,cümlesini muhtemelen hangisini söyleyerek tamamlayacaktýr?#Aþk vardýr#Ýç güzelliði vardýr#Fizik vardýr#Kiþilik vardýr#C#4#
+4#Hangisi, tuþlu ve körüklü bir estrümandýr?#Akordiyon#Otobüs#Kontrbas#Sitar#A#2#
+5#Bir restoran menüsünde,açýklama kýsmýnda "tereyaðlý pirinç pilavý eþliðinde"yazan ürün muhtemelen hangisidir?#Çikolatalý sufle#Meyve tabaðý#Yaprak döner#Çoban salatasý#C#4#
+6#Hangi adda bir çocuk oyunu vardýr?#Tavandan alçak#Yerden yüksek#Kutuplardan basýk#Ekvatordan þiþkin#B#3#
+7#Kalabalýk bir asansöre biri daha bindiðinde asansör aðýrlýk uyarýsý vermiþse genellikler hangisinin olmasý beklenir?#Asansöre ilk binenin inmesi#Asansöre son binenin inmesi#Asansördeki herkesin inmesi#Asansördeki herkezin zýplamasý#B#3#
+8#Elmasýn ve maden köürün yapý taþý olan karbon adlý elementin simgesi nedir?#K#Ka#C#Ca#C#4#
+9#Hangisi "cillop gibi" benzetmesinin anlamlarýndan bir ideðildir?#Parlak#Bulanýk#Pürüzsüz#Temiz#B#3#
+10#Açýklamasýnda "mikrofiber" özellikte olduðu belirtilen bir ürün muhtemelen hangisidir?#Temizlik bezi#Kurþun kalem#Kahve fincaný#Kartuþ#A#2#
+11#"Kýzýl Gezegen" genellikle hangisi için yapýlan bir benzetme olur?#Kripton#Cyberton#Mars#Vulcan#C#4#
+12#Atlas Daðlarý'ný gezmekte olan biri hangi ülkede olabilir?#Arjantin#Fas#Arnavutluk#Japonya#B#3#
+13#Kimlere "karýncaezmez" denir?#Çok esprili kiþilere#Çok merhametli kiþilere#Çok gösteriþli kiþilere#Çok çalýþkan kiþilere#B#3#
+14#Hangisi, Iron Man adlý çizgi roman kahramanýný beyaz perdede canlandýrmýþtýr?#Jake Gyllenhall#Robert Downey Jr.#Benedict Cumberbatch#Chris Hemsworth#B#3#
+15#Hangisi "anlýk" anlamýna gelmez?#Entelekt#Spontane#Aktüel#Enstantane#C#4#
+16#"Bana koltuk çýkmaný beklerdim" diyen biri muhatabýna hangi mesajý vermiþ olur?#Beni desteklemeliydin#Taþýnmama yardým etmeliydin#Balkonu odaya katmalýydýn#Koltuk takýmýný yenilemeliydin#A#2#
+17#"Külkedisi" adlý masalýn en bilinen versiyonunda, katýldýðý baloyu gece yarýsý olmadan önce hýzlýca terk etmeye çalýþan Külkedisi'nin baþýna ne gelir?#Ceketinin dikiþleri sökülür#Telefonunun ekraný kýrýlýr#Çantasýný kaptýrýr#Ayakkabýsýný düþürür#D#5#
+18#Okullarda belli bir baþarý düzeyinin üzerine çýkan öðrenciye karnesiyle birlikte verilen belgenin doðru yazýlýþý hangisidir?#Taktir belgesi#Tahkir belgesi#Takdir belgesi#Takrir belgesi#C#4#
+19#"Tarla sürmeye gitmek" anlamýna gelen ifade hangisidir?# Mars etmek#Çifte gitmek#Pike çekmek#Fýrfýr yapmak#B#3#
+20#Ýstanbul'un Kadýköy, Üsküdar, Ümraniye, Beykoz, Maltepe, Kartal, Pendik, Tuzla ilçelerinde oturanlar hangisinde yaþýyordur?#Gelibolu Yarýmadasý#Çatalca Yarýmadasý#Kapýdað Yarýmadasý#Kocaeli Yarýmadasý#D#5#
+21#Hangisinden geçiyorsanýz ABD'nin Kaliforniya eyaletindesinizdir?#Brandenburg Kapýsý#Hadrian Duvarý# Golden Gate Köprüsü# Valens Su Kemeri#C#4#
+22#Ölçüsü dik açýdan daha büyük ve doðru açýdan daha küçük olan açýlara ne ad verilir?#Dar açý#Geniþ açý#Düz açý#Yuvarlak açý#B#3#
+23#"DUS"a girecek olan biri hangi fakülteden mezun olmuþtur?# Hukuk#Diþ Hekimliði#Spor Bilimleri#Denizcilik#B#3#
+24#Hangisinin zirvesine týrmanan bir daðcý, Asya kýtasýndadýr?#Rushmore Daðý#Etna Daðý#Everest Daðý#Kilimanjaro Daðý#C#4#
+25#"Açlýk Oyunlarý" adlý film serisinde Jennifer Lawrence'ýn canlandýrdýðý baþkarakter hangisidir?#Ellen Ripley#Clarice Starling#Hunger Games#Katniss Everdeen#D#5#
+26#Stefan Zweing'ýn "Satranç" adlý eserinde, bir gemi yolculuðu sýrasýnda geçen hikayede karakterler hangi oyunu oynar?#Çelik çomak#Deve güreþi#Satranç#Uzuneþek#C#4#
+27#Sayfiye ne demektir?#Yazlýk, yazlýk ev# Kýþlýk, kýþlýk ev# Ýlkbahar, ilkbaharlýk ev#Sonbahar, sonbaharlýk ev#A#2#
+28#Trabzon hurmasýnýn diðer adý hangisidir?#Acem hurmasý#Hint hurmasý#Japon hurmasý#Balkan hurmasý#C#4#
+29#TDK'ye göre hangisi, "yalnýz bakmakla yetinilen aþk" anlamýna gelir?#Kara sevda#Göz sevdasý#Platonik aþk# Uzak aþk#B#3#
+30#Orkestra þeflerinin sahnede mesleklerini icra ederken giydikleri genellikle hangisi olur?#Tütü#Frak#Ropdöþambýr# Peþtamal#B#3#
+31#Alexandre Dumas'nýn "Üç Silahþör" adlý romanýnda geçen ve "Hepimiz birimiz" þeklinde baþlayan sözün devamý nasýldýr?#Birimiz birimiz için#Birimiz hepimiz için#Hepimiz birimiz için#Hepimiz hepimiz için#B#3#
+32#Türkçe yazým kurallarýna göre hangisinin yazýlýþý doðrudur?#13.00'da#13.00'te#13.00'da#13:00'te#B#3#
+33#Hangisi "havuç"a verilen bir addýr?#Havayavaran#Topraðagiren#Yeregeçen#Karakaçan#C#4#
+34#Peþkir nedir?#Bir çeþit elek#Bir çeþit havlu# Bir çeþit þerbetli tatlý#Bir çeþit pabuç#B#3#
+35#Atasözüne göre hangisini "yýkmak kolay, yapmak zordur"?#Aþil tendonunu#Safra kesesini#Apandisi#Kalbi#D#5#
+36#"Linyit", "antrasit" gibi türleri olan ve büyük ölçüde karbondan oluþan hangisidir?#Alüminyum#Bor#Kömür#Obsidiyen#C#4#
+37#"Dikkate þayan" ne demektir?#Deðerli#Önemsiz# Basit#Özensiz#A#2#
+38#Hangi meyvenin "gemre" ve "pembegemre" adýnda türleri vardýr?#Erik#Karpuz#Elma#Üzüm#D#5#
+39#Hangisi bir çeþit acý bala verilen addýr?#Deli bal#Mecnun bal#Aþýk bal#Divane bal#A#2#
+40#Hangisi atomlarda bulunan temel parçacýklardan biri deðildir?#Proton#Nötron#Elektron#Megatron#D#5#
+41#ABD New York'taki Özgürlük Heykeli bir elinde meþale tutarken diðer elinde ne tutar?#Anayasa kitabý#Tabela#Terazi#Hiçbir þey#B#3#
+42#Hangisi "lahana"ya halk arasýnda verilen bir diðer addýr?#Hünnap#Çiðdem#Kelem#Þalak#C#4#
+43#"Geçti Bor'un pazarý" atasözünde adý geçen Bor, hangi ilin bir ilçesidir?#Niðde#Nevþehir# Kýrþehir#Aksaray#A#2#
+44#333'ün 3 katý, 333'ün 3'te birinden kaç fazladýr?#0#222#555#888#D#5#
+45#"Aðustosun yarýsý yaz" þeklinde baþlayan atasözünün devamý nasýldýr?#Yarýsý güzdür#Yarýsý bahardýr# Yarýsý kýþtýr#Yarýsý yazdýr#C#4#
+46#Hangi ünlü çizgi karakter genellikle sarý renkli bir þapka takar?#Kirpi Sonic#Hýzlý Gonzales#Road Runner# Tazmanya Canavarý#B#3#
+47#"Genetik biliminin kurucusu" olarak kabul edilen ve bezelyelerle yaptýðý çalýþmalar biyoloji derslerinde anlatýlan bilim insaný kimdir?#Gregor Mendel#Marie Curie#Louis Pasteur#Lev Bezelyev#A#2#
+48#Birincisinin lakabý "Yýldýrým", ikincisinin lakabý "Veli" olan Osmanlý padiþahlarýnýn adý nedir?#Ahmed#Süleyman#Mehmed#Bayezid#D#5#
+49#1'den büyük bir tam sayýyý kendisiyle çarparsanýz onun nesini bulursunuz?#Karesini#Küpünü#Karekökünü#Küpkökünü#A#2#
+50#10.000, 1.000, 100, 10 ve 1'in çarpýmý kaç eder?#On milyon#On milyar#On trilyon#On katrilyon#B#3#
